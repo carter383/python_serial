@@ -79,7 +79,7 @@ So I built this. A single tool that combines the convenience of a command-line i
 pip install pyserial
 ```
 
-Or clone manually:
+and clone:
 
 ```bash
 git clone https://github.com/carter383/python_serial
