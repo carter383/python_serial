@@ -75,16 +75,18 @@ So I built this. A single tool that combines the convenience of a command-line i
 
 ## 📦 Installation
 
-```bash
-pip install pyserial
-```
-
-and clone:
+Clone Repo:
 
 ```bash
 git clone https://github.com/carter383/python_serial
 cd python_serial
 chmod +x python_serial.py
+```
+
+Install dependency's
+
+```bash
+pip install pyserial
 ```
 
 ---
