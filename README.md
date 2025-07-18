@@ -83,7 +83,7 @@ cd python_serial
 chmod +x python_serial.py
 ```
 
-Install dependency's
+Install dependencies:
 
 ```bash
 pip install pyserial
