@@ -109,7 +109,6 @@ This tool provides a robust and flexible CLI interface with full control over se
 | `--log-format`     | Format of the log output:<br>`plain`, `json`, or `csv`.                                                                                            |
 | `--no-log-sent`    | Disable logging of sent messages (logs only incoming data).                                                                                        |
 | `-v`, `--verbose`  | Enables verbose mode:<br>Shows both formatted and raw hex output.                                                                                  |
-| `--tui`            | Launch curses-based real-time TUI (text-based user interface).                                                                                     |
 
 ---
 
